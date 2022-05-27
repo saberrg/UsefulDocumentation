@@ -1,0 +1,7 @@
+For AUTOMATION
+
+import pdfminer - pdf to text
+import spacy - Natural Language Processing
+import re(default) - regex; pattern matching
+import os(default) - file system manipulation
+import pandas - creating csv
